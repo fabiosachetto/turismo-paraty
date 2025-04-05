@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Turismo Paraty",
-  description: "O novo site de turismo de Paraty",
+  description: "O novo site de turismo de Paraty.",
 };
 
 export default function RootLayout({
