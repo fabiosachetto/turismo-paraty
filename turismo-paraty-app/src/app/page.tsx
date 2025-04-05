@@ -17,7 +17,7 @@ export default function Home() {
 
         <p className="m-auto uppercase font-bold">Site em Construção!!!</p>
 
-        <span className="m-auto">Em Desenvolvimento por Brain Tech.</span>
+        <span className="m-auto">Em Desenvolvimento por Brain Tech...</span>
       </main>
     </div>
   );
